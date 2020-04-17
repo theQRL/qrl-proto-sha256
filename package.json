@@ -1,6 +1,6 @@
 {
-  "name": "qrl-proto-sha256",
-  "version": "1.0.0",
+  "name": "@theqrl/qrl-proto-sha256",
+  "version": "2.0.1",
   "description": "SHA256 checksums for QRL node .proto files",
   "main": "index.js",
   "scripts": {
