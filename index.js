@@ -83,7 +83,7 @@ exports.QRLPROTO_SHA256 = [
   {
     version: "1.1.15+65.gf434f320.dirty python",
     protoSha256: "9c273e5aa3c88c8a225dd16a76203a95ca23f737599ebab991e1087badec7598",
-    memoryHash: "4cbe6e4d8f91dd2aab0508e7e27dfa1276c5f0527d9cdc6b6d364a829acda4c6",
+    memoryHash: "98f83d3bac5a6e3c36b513f21147446d969036b95fd53a3cc86d104c93b5e355",
     objectSha256: "ffab214fb7f1497209b6a513c5a9053a0c5566741a91c836482e1057c0e57773",
   },
   {
@@ -94,13 +94,13 @@ exports.QRLPROTO_SHA256 = [
   {
     version: "2.0.1+0.gf457b3a.dirty python",
     protoSha256: "b24a5c41468610914da57ac92f3cc2f74d89575f2626d5968f84ca211f55410c",
-    memoryHash: "452096df92a0cc87bdda0e4c3fb72ba5d11c166d0f51a551ac1b4a778bcf5bff",
+    memoryHash: "da2e25913b8a7114c6bb7a433f8751c38b10a7cd2fdcbd4111e9aad3b5313b3a",
     objectSha256: "f6b06eac25bd5740fe6877d5e604429e6aadd93dee668e7412051decbf34add2",
   },
   {
     version: "2.0.1+0.gf457b3a.dirty python (null)",
     protoSha256: "b24a5c41468610914da57ac92f3cc2f74d89575f2626d5968f84ca211f55410c",
-    memoryHash: "452096df92a0cc87bdda0e4c3fb72ba5d11c166d0f51a551ac1b4a778bcf5bff",
+    memoryHash: "da2e25913b8a7114c6bb7a433f8751c38b10a7cd2fdcbd4111e9aad3b5313b3a",
     objectSha256: "f6b06eac25bd5740fe6877d5e604429e6aadd93dee668e7412051decbf34add2",
   },
   {
@@ -121,13 +121,13 @@ exports.QRLPROTO_SHA256 = [
   {
     version: "2.0.1 python",
     protoSha256: "b24a5c41468610914da57ac92f3cc2f74d89575f2626d5968f84ca211f55410c",
-    memoryHash: "452096df92a0cc87bdda0e4c3fb72ba5d11c166d0f51a551ac1b4a778bcf5bff",
+    memoryHash: "da2e25913b8a7114c6bb7a433f8751c38b10a7cd2fdcbd4111e9aad3b5313b3a",
     objectSha256: "f6b06eac25bd5740fe6877d5e604429e6aadd93dee668e7412051decbf34add2",
   },
   {
     version: "2.0.1 python (null)",
     protoSha256: "b24a5c41468610914da57ac92f3cc2f74d89575f2626d5968f84ca211f55410c",
-    memoryHash: "452096df92a0cc87bdda0e4c3fb72ba5d11c166d0f51a551ac1b4a778bcf5bff",
+    memoryHash: "da2e25913b8a7114c6bb7a433f8751c38b10a7cd2fdcbd4111e9aad3b5313b3a",
     objectSha256: "f6b06eac25bd5740fe6877d5e604429e6aadd93dee668e7412051decbf34add2",
   },
   // development .proto
@@ -139,14 +139,14 @@ exports.QRLPROTO_SHA256 = [
   {
     version: "0.2.0 python (null)",
     protoSha256: "ab168a46875c6dc41000080804c858b9039aae977dfd5503d9eb234ece4e3510",
-    memoryHash: "4cbe6e4d8f91dd2aab0508e7e27dfa1276c5f0527d9cdc6b6d364a829acda4c6",
+    memoryHash: "98f83d3bac5a6e3c36b513f21147446d969036b95fd53a3cc86d104c93b5e355",
     objectSha256: "0ead495c340fd331b28e325166ffe162a0f7cc3929b559f47d3691aeb0541bae",
   },
   // testnet public release
   {
     version: "0.2.0 python",
     protoSha256: "ab168a46875c6dc41000080804c858b9039aae977dfd5503d9eb234ece4e3510",
-    memoryHash: "4cbe6e4d8f91dd2aab0508e7e27dfa1276c5f0527d9cdc6b6d364a829acda4c6",
+    memoryHash: "98f83d3bac5a6e3c36b513f21147446d969036b95fd53a3cc86d104c93b5e355",
     objectSha256: "0ead495c340fd331b28e325166ffe162a0f7cc3929b559f47d3691aeb0541bae",
   },
 ];
