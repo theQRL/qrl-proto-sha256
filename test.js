@@ -1,7 +1,7 @@
 var assert = require('assert');
 var QRLP = require('./index.js').QRLPROTO_SHA256;
 
-var CURRENT_PROTOS = 28;
+var CURRENT_PROTOS = 29;
 
 describe('QRLPROTO_SHA256', function() {
   describe('-> length', function() {
@@ -43,7 +43,7 @@ describe('QRLPROTO_SHA256', function() {
       assert.equal(objectSha256, CURRENT_PROTOS);
     });
     it('each element has a valid length memoryhash SHA256 checksum', function() {
-      assert.equal(memoryHash, 7);
+      assert.equal(memoryHash, 8);
     });
   });
 });
