@@ -43,7 +43,7 @@ describe('QRLPROTO_SHA256', function() {
       assert.equal(objectSha256, CURRENT_PROTOS);
     });
     it('each element has a valid length memoryhash SHA256 checksum', function() {
-      assert.equal(memoryHash, 8);
+      assert.equal(memoryHash, 7);
     });
   });
 });
