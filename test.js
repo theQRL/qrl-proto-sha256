@@ -1,7 +1,7 @@
 var assert = require('assert');
 var QRLP = require('./index.js').QRLPROTO_SHA256;
 
-var CURRENT_PROTOS = 29;
+var CURRENT_PROTOS = 30;
 
 describe('QRLPROTO_SHA256', function() {
   describe('-> length', function() {
