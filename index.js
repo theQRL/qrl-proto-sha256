@@ -137,12 +137,21 @@ exports.QRLPROTO_SHA256 = [
     objectSha256: "2899c2d79b287e75b9ecc3aaa2fd63ec3ebd5455b7e0883528ef5425121c6a27",
     objectHash: "0593e90215d11234f53667326df2624b7bc17e462a952063291c4ba15d54c1d7",
   },
-   {
-    version: '2.0.7 python',
-    protoSha256: '0d70a3372c4668a1bf4fd42983ae01f2e0fb54b4030b808bbea78e5adadb23f0',
+  {
+    version: "2.0.7 python",
+    protoSha256: "0d70a3372c4668a1bf4fd42983ae01f2e0fb54b4030b808bbea78e5adadb23f0",
     protoHash: "cbabe9884349f1894a24f6145b3a48565d66fedd2c35e1a68ff925daf37f3861",
-    objectSha256: '2899c2d79b287e75b9ecc3aaa2fd63ec3ebd5455b7e0883528ef5425121c6a27',
+    objectSha256: "2899c2d79b287e75b9ecc3aaa2fd63ec3ebd5455b7e0883528ef5425121c6a27",
     objectHash: "0ec02dc141c5810d4cf58af93f5e1dd7f3ea036a1053afbed3706a470d20a76a",
+    cliProto: "4ea5c508a6566e76240543f8feb06fd457777be39549c4016436afda65d2330e",
+  },
+  {
+    version: "2.1.2 python",
+    protoSha256: "0d70a3372c4668a1bf4fd42983ae01f2e0fb54b4030b808bbea78e5adadb23f0",
+    protoHash: "cbabe9884349f1894a24f6145b3a48565d66fedd2c35e1a68ff925daf37f3861",
+    objectSha256: "2899c2d79b287e75b9ecc3aaa2fd63ec3ebd5455b7e0883528ef5425121c6a27",
+    objectHash: "0ec02dc141c5810d4cf58af93f5e1dd7f3ea036a1053afbed3706a470d20a76a",
+    cliProto: "4ea5c508a6566e76240543f8feb06fd457777be39549c4016436afda65d2330e",
   },
   // development .proto
   {
