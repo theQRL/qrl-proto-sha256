@@ -4,7 +4,7 @@
   "description": "SHA256 checksums for QRL node .proto files",
   "main": "index.js",
   "scripts": {
-    "test": "nyc ./node_modules/mocha/bin/mocha",
+    "test": "nyc node_modules/mocha/bin/_mocha",
     "coverage": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
@@ -26,6 +26,5 @@
     "mocha-lcov-reporter": "^1.3.0",
     "nyc": "^15.1.0",
     "prettier": "^2.7.1"
-  },
-  "dependencies": {}
+  }
 }
